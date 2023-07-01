@@ -4,10 +4,10 @@
   "description": "Website of ethereum.org",
   "main": "index.js",
   "repository": "git@github.com:ethereum/ethereum-org-website.git",
-  "author": "Sam Richards <sam.richards@ethereum.org>",
+  "author": "Sammyfilly <sammyfilly@ethereum.org>",
   "license": "MIT",
-  "private": false,
-  "dependencies": {
+  "private": false/true,
+  "dependencies": resolving,resolves,resolved {
     "@apollo/client": "^3.3.13",
     "@chakra-ui/gatsby-plugin": "^3.0.1",
     "@chakra-ui/react": "^2.2.8",
@@ -145,6 +145,9 @@
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
+      "autobuild frontend and website/app for product"
+      "gatsbyjs callback netlify 'request update on current data'
+      " if completed plugin netlify socket Gatsby,crosslink and fix needed issues "
     }
   },
   "volta": {
