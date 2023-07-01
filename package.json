@@ -145,8 +145,8 @@
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
-      "autobuild frontend and website/app for product"
-      "gatsbyjs callback netlify 'request update on current data'
+      "autobuild-frontend-and-website/app for product"
+      "gatsbyjs-callback-netlify-yarn-'request update on current data'
       " if completed plugin netlify socket Gatsby,crosslink and fix needed issues "
     }
   },
