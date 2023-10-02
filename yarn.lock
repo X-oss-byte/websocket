@@ -12086,10 +12086,10 @@ gatsby-plugin-manifest@^5.4.0:
     semver "^7.3.8"
     sharp "^0.31.3"
 
-gatsby-plugin-matomo@^0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-matomo/-/gatsby-plugin-matomo-0.14.0.tgz#d8adf0fa336b2c2489a2a69ab7719b0c52864877"
-  integrity sha512-zRC+hfqYv5DUXsAnfuEV3x2SkyP/ou/jy9TDxRA3NnxarpBpM+i3h6Rcc4nMmsPq+lEJiQqhBSapw4MTjwqS2A==
+gatsby-plugin-matomo@^0.16.1:
+  version "0.16.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-matomo/-/gatsby-plugin-matomo-0.16.1.tgz#53424ab558e17b115ecef5dacb293fabd361aa49"
+  integrity sha512-WP1m8ruakNQK1y/LvPDFjsEYbtSYFKY5OJLe9xt/wEiDO/icEgfwtaomlnWxAj58/MdwY4znVuqcarEQiwo23A==
 
 gatsby-plugin-mdx@^5.0.0:
   version "5.11.0"
@@ -12939,6 +12939,18 @@ got@^9.6.0:
   version "9.6.0"
   resolved "https://registry.yarnpkg.com/got/-/got-9.6.0.tgz#edf45e7d67f99545705de1f7bbeeeb121765ed85"
   integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
+  dependencies:
+    "@sindresorhus/is" "^0.14.0"
+    "@szmarczak/http-timer" "^1.1.2"
+    cacheable-request "^6.0.0"
+    decompress-response "^3.3.0"
+    duplexer3 "^0.1.4"
+    get-stream "^4.1.0"
+    lowercase-keys "^1.0.1"
+    mimic-response "^1.0.1"
+    p-cancelable "^1.0.0"
+    to-readable-stream "^1.0.0"
+    url-parse-lax "^3.0.0"
 
 graceful-fs@4.2.10, graceful-fs@^4.1.15:
   version "4.2.10"
