@@ -6109,9 +6109,9 @@
     "@types/node" "*"
 
 "@types/browser-lang@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@types/browser-lang/-/browser-lang-0.1.0.tgz#a1dad436c5030a7f43466074012caa0ab077b590"
-  integrity sha512-35YiRsfyH1IQC/a4vLEJX7bRgtjPMnoTEPq27uo9Gs/YVyiw3YEMNeQYvFaznA/UNxp23jTQ+WF3O4Mi1iXwxg==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@types/browser-lang/-/browser-lang-0.1.2.tgz#f7e4b3d44c4fdc1d36563a8feaf48e0d66a22647"
+  integrity sha512-F6UrLn++11o967g8+G4c0mILIuSuyhpE9N989T4Rr+sgHqYpdrAbPgp3KOPPf4AA2A09dQDUB8/3K1GBG9Daeg==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.3"
